@@ -1,1 +1,2 @@
-console.log("hello world")
+var out = "hello world"
+console.log(out)
