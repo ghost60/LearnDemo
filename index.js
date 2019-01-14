@@ -1,2 +1,2 @@
-var out = "hello world"
+var out = "hello world test travis cli"
 console.log(out)
