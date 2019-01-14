@@ -9,12 +9,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ghost60/GHO.git"
+    "url": "git+https://github.com/ghost60/LearnDemo.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ghost60/GHO/issues"
+    "url": "https://github.com/ghost60/LearnDemo/issues"
   },
-  "homepage": "https://github.com/ghost60/GHO#readme"
+  "homepage": "https://github.com/ghost60/LearnDemo#readme"
 }
