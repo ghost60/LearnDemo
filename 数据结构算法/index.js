@@ -108,3 +108,15 @@ function part(array, left, right) {
     swap(array, right, more);
     return [less, more];
 }
+
+//数组降维去重排序
+//降维
+Array.flat(n)
+//去重
+//[...new set(arr)]
+//排序
+Array.sort()
+//升序
+Array.sort((a,b)=>{return a-b})
+//降序
+Array.sort((a,b)=>{return b-a})
