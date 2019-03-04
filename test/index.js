@@ -42,3 +42,11 @@ function getParam(url) {
     var p = url.match(reg)
 }
 getParam(url)
+
+var a=10
+function n(){
+    debugger
+    var a=a+10;
+    alert(a)
+}
+n()
