@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ghost60/LearnDemo/issues"
   },
-  "homepage": "https://github.com/ghost60/LearnDemo#readme"
+  "homepage": "https://github.com/ghost60/LearnDemo#readme",
+  "dependencies": {
+    "@antv/g2": "^3.4.10"
+  }
 }

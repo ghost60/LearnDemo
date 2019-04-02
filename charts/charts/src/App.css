@@ -1,0 +1,33 @@
+.header{
+    background-color: #3aa1ff;
+    height: 42px;
+    line-height: 42px;
+    text-align: center;
+    color: #ffffff;
+    font-size: 18px;
+}
+.tabbar{
+    text-align: center;
+    height: 28px;
+    line-height: 28px;
+}
+.selecter{
+    display: inline-block ;
+    width: 25%;
+    background-color: #95cdff;
+    color: #8c8c8c;
+    font-size: 15px;
+}
+.selecter.active{
+    background-color: #6ebbff;
+    color: #ffffff;
+}
+.refresh{
+    margin-left: 90%;
+    margin-top: 6px;
+    color: #3aa1ff;
+    padding: 3px 12px;
+    border: 1px solid #bdbaba;
+    border-radius: 4px;
+    font-size: 14px;
+}

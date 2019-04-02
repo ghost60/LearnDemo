@@ -1,0 +1,6 @@
+.item{
+    margin: 6px;
+}
+.item >span{
+    margin-right: 10px;
+}

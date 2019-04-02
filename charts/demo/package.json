@@ -1,0 +1,32 @@
+{
+  "name": "charts",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "antd": "^3.15.1",
+    "babel-plugin-import": "^1.11.0",
+    "bizcharts": "^3.4.5",
+    "customize-cra": "^0.2.12",
+    "dva": "^2.4.1",
+    "react": "^16.8.4",
+    "react-app-rewired": "^2.1.1",
+    "react-dom": "^16.8.4",
+    "react-scripts": "2.1.8"
+  },
+  "scripts": {
+    "start": "react-app-rewired start",
+    "build": "react-app-rewired build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "proxy": "http://192.168.0.190:80",
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
